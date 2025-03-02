@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatBattler", "StatBattler.csproj", "{93D65186-A05A-46A0-8523-69FF7B07915B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatBattler", "StatBattler.csproj", "{43EBF244-BD57-461D-B49D-97A9A6D3336F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +9,11 @@ Global
 	ExportRelease|Any CPU = ExportRelease|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
-		{93D65186-A05A-46A0-8523-69FF7B07915B}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{43EBF244-BD57-461D-B49D-97A9A6D3336F}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
 	EndGlobalSection
 EndGlobal
